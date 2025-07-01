@@ -20,10 +20,9 @@ A Python implementation of the classic Tic-Tac-Toe game with both human vs human
 
 1. Ensure you have Python 3 installed
 2. Install pygame:
-   ```bash
+   ```
    pip install pygame
    ```
-3. Make sure the required custom modules (`stdarray`, `stdio`, `Gui`) are in your Python path
 
 ## Usage
 
