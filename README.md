@@ -29,6 +29,10 @@ A Python implementation of the classic Tic-Tac-Toe game with both human vs human
    pip install pygame
    ```
 
+### Prerequisites
+- Python 3.6 or higher
+- Required libraries: `stdlib`
+
 ## Usage
 
 Run the game from the command line with a game type argument:
