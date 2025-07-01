@@ -2,6 +2,15 @@
 
 A Python implementation of the classic Tic-Tac-Toe game with both human vs human and human vs computer gameplay modes, featuring a graphical user interface.
 
+## Author
+
+**Thaakir Fernandez**
+
+## Project Timeline
+
+- **Start Date:** August 2023
+- **Completed:** August 2023
+
 ## Features
 
 - **Two Game Modes:**
@@ -11,10 +20,6 @@ A Python implementation of the classic Tic-Tac-Toe game with both human vs human
 - **AI Opponent:** Intelligent computer player with strategic decision-making
 - **Input Validation:** Robust move validation and error handling
 - **Win Detection:** Automatic winner detection for rows, columns, and diagonals
-
-## Project Timeline
-- **Start Date:** August 2023
-- **Completed:** August 2023
 
 ## Installation
 
@@ -68,3 +73,8 @@ The AI opponent uses a strategic approach with the following priority order:
 3. **Adjacent Move:** Looks for moves adjacent to existing 'O' pieces
 4. **Strategic Positioning:** Attempts to find clear rows for future wins
 5. **Random Move:** Falls back to a random valid move if no strategic move is found
+
+## Contact
+
+For questions, issues, or suggestions:
+- **Email:** thaakir07@gmail.com
